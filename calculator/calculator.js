@@ -1,3 +1,3 @@
-var a = `'"Hello"'`
+var a = `'"Hello"'`;
 
-console.log(a)
+console.log(a);
